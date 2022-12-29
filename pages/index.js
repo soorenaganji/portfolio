@@ -65,7 +65,7 @@ export default function Home() {
               <li>
                 <a
                   target={"_blank"}
-                  href="https://mstorage.jobinjacdn.com/records/files/uploads/documents/85ac5aef-f78a-4d30-92fd-35364e015456.pdf?requester=35312e37392e3136312e323339&resource=753a32353435323132&from=6170706c69636174696f6e5f666f726d&X-Amz-Content-Sha256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=oetSom924MQvtCRu9N6vvQ4bt8cG9HSpRnxWU756SyWy5NVt6nTpmfA9aV2b%2F20221227%2F%2Fs3%2Faws4_request&X-Amz-Date=20221227T002827Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=a818a9ad1fbaf3de116e22b5200ca15f64cf818e1e961f95e87b509f09f1e4d8"
+                  href="./Resume.pdf"
                   className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8 mr-4"
                 >
                   Resume
